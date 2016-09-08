@@ -1,12 +1,14 @@
 ---
 layout: article
-title: BestieBox
+title: テレビ de 通訳
 excerpt: 
 image:
-  teaser: thumbnail/temp_bestiebox_400x250.png
+  teaser: thumbnail/temp_smartnavi_400x250.png
 categories: skyway
 tags: skyway webrtc image usercase
 ---
 
-# BestieBox
+# SmartNavi
+
+
 

@@ -5,7 +5,7 @@ excerpt:
 image:
   teaser: thumbnail/messenger_400x250.png
 categories: skyway
-tags: skyway webrtc character
+tags: skyway webrtc character usecase
 ---
 
 # SkyRTC

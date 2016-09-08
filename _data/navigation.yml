@@ -10,12 +10,22 @@
   excerpt: WebRTC関連事例
   image: thumbnail/webrtc_400x250.png
 
-- title: image
-  url: /image
-  excerpt: サムネイルが画像のもの
-  image: thumbnail/skywayconf_400x250.png
+- title: Use Case
+  url: /use
+  excerpt: ユースケース
+  image: thumbnail/webrtc_400x250.png
 
-- title: character
-  url: /character
-  excerpt: サムネイルが文字画像のもの
-  image: thumbnail/character_400x250.png
+- title: User Case
+  url: /user
+  excerpt: ユーザ事例
+  image: thumbnail/webrtc_400x250.png
+
+# - title: image
+#   url: /image
+#   excerpt: サムネイルが画像のもの
+#   image: thumbnail/skywayconf_400x250.png
+
+# - title: character
+#   url: /character
+#   excerpt: サムネイルが文字画像のもの
+#   image: thumbnail/character_400x250.png
