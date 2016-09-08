@@ -1,6 +1,21 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
+- title: SkyWay
+  url: /
+  excerpt: SkyWay関連事例
   image:
+
+- title: WebRTC
+  url: /
+  excerpt: WebRTC関連事例
+  image:
+
+- title: image
+  url: /image
+  excerpt: サムネイルが画像のもの
+  image: thumbnail/skywayconf_400x250.png
+
+- title: character
+  url: /character
+  excerpt: サムネイルが文字画像のもの
+  image: thumbnail/character_400x250.png
