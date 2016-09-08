@@ -1,11 +1,11 @@
 ---
 layout: archive
-permalink: /
-title: "SkyWay活用事例"
+permalink: /webrtc/index.html
+title: "WebRTC活用事例"
 ---
 
 <div class="tiles">
-{% for post in site.tags.skyway %}
+{% for post in site.posts %}
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->

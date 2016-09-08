@@ -6,19 +6,19 @@
   image: thumbnail/skyway_400x250.png
 
 - title: WebRTC
-  url: /
+  url: /webrtc
   excerpt: WebRTC関連事例
   image: thumbnail/webrtc_400x250.png
 
 - title: Use Case
   url: /use
   excerpt: ユースケース
-  image: thumbnail/webrtc_400x250.png
+  image: thumbnail/usecase_400x250.png
 
 - title: User Case
   url: /user
   excerpt: ユーザ事例
-  image: thumbnail/webrtc_400x250.png
+  image: thumbnail/usercase_400x250.png
 
 # - title: image
 #   url: /image
