@@ -3,12 +3,12 @@
 - title: SkyWay
   url: /
   excerpt: SkyWay関連事例
-  image:
+  image: thumbnail/skyway_400x250.png
 
 - title: WebRTC
   url: /
   excerpt: WebRTC関連事例
-  image:
+  image: thumbnail/webrtc_400x250.png
 
 - title: image
   url: /image

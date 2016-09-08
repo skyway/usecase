@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "WebRTC活用事例"
 ---
 
 <div class="tiles">
