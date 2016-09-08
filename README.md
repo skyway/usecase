@@ -10,6 +10,6 @@ https://skyway.github.io/usecase/
   - `bundle exec jekyll serve` でサーバ起動
   - http://localhost:4000 にアクセス
 - Pushする時
-  - _config.ymlを `https://skyway.github.io/usecase` に修正
+  - _config.ymlを `url: https://skyway.github.io/usecase` に修正
   - `bundle exec jekyll build` でcommit用のページ生成
   - あとはいつものaddして、commitして、push
