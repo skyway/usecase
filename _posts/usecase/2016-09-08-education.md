@@ -25,3 +25,13 @@ tags: skyway webrtc character usecase
 ## ドコモgacco
 
 # 配信
+
+<hr>
+
+関連ユーザ事例
+
+<div class="tiles">
+{% for post in site.tags.education %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->

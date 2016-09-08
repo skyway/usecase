@@ -9,3 +9,13 @@ tags: skyway webrtc character usecase
 ---
 
 # SkyShare
+
+<hr>
+
+関連ユーザ事例
+
+<div class="tiles">
+{% for post in site.tags.fileshare %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->

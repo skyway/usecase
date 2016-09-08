@@ -1,25 +1,23 @@
 ---
 layout: article
-title: Web会議
+title: 販売支援
 excerpt: 
 image:
-  teaser: thumbnail/webconf_400x250.png
+  teaser: thumbnail/salessupport_400x250.png
 categories: skyway
 tags: skyway webrtc character usecase
 ---
 
+# SkyRTC
 
-
-# SkyWay Conf
-
-## 東京海上日動システムズ
+## キタムラ
 
 <hr>
 
 関連ユーザ事例
 
 <div class="tiles">
-{% for post in site.tags.webconf %}
+{% for post in site.tags.salessupport %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
