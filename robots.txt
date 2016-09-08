@@ -1,0 +1,4 @@
+User-Agent:*
+Disallow:/
+
+Sitemap:https://skyway.github.io/usecase/sitemap.xml
