@@ -1,6 +1,6 @@
 ---
 layout: article
-title: テレイグジスンタンスロボット
+title: Telexistence robot
 excerpt: 
 image:
   teaser: thumbnail/temp_telexistence_400x250.png
