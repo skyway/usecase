@@ -8,9 +8,6 @@ categories: skyway
 tags: skyway webrtc character usecase
 ---
 
-# SkyRTC
-
-## キタムラ
 
 <hr>
 

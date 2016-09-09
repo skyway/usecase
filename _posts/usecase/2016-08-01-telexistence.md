@@ -3,7 +3,7 @@ layout: article
 title: Telexistence robot
 excerpt: 
 image:
-  teaser: thumbnail/temp_telexistence_400x250.png
+  teaser: thumbnail/telexistence_400x250.png
 categories: skyway
 tags: skyway webrtc image usercase robot iot vr
 ---

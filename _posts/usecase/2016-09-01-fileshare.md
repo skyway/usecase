@@ -8,7 +8,6 @@ categories: skyway
 tags: skyway webrtc character usecase
 ---
 
-# SkyShare
 
 <hr>
 

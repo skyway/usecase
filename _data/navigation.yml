@@ -1,8 +1,8 @@
 # Site navigation links
 
 - title: SkyWay
-  url: /
-  excerpt: SkyWay関連事例
+  url: /skyway
+  excerpt: SkyWayとは
   image: thumbnail/skyway_400x250.png
 
 - title: WebRTC
