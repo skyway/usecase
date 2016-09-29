@@ -9,7 +9,7 @@ tags: skyway webrtc image usercase webconf
 ---
 
 <figure>
-	<a href="" target="_blank"><img src="{{ site.url }}/images/pages/skywayconf.png"></a>
+	<a href="https://confdemo.skyway.io/" target="_blank"><img src="{{ site.url }}/images/pages/skywayconf.png"></a>
 </figure>
 
 <a href="https://confdemo.skyway.io/" target="_blank" class="btn-info">Demo: SkyWay Conference</a>
