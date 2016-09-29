@@ -8,4 +8,15 @@ categories: skyway
 tags: skyway webrtc image usercase
 ---
 
-<a href="https://jt.skyway.io/" target="_demo" class="btn-info">Demo: HTML5 JUMBOTRON</a>
+<figure>
+	<a href="https://jt.skyway.io/" target="_blank"><img src="{{ site.url }}/images/pages/jumbotron.png"></a>
+</figure>
+
+
+### NTTコミュニケーションズ HTML5 JUMBOTRON
+
+監視モニターのように、複数の端末の映像を集約し、視聴することができるデモアプリ
+
+2000人規模のカンファレンス会場で、スマホで撮った約150名の来場者の顔を、壇上のスクリーンに映し出した。
+
+<a href="https://jt.skyway.io/" target="_blank" class="btn-info">Demo: HTML5 JUMBOTRON</a>

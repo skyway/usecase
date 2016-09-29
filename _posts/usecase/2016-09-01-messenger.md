@@ -8,6 +8,10 @@ categories: skyway
 tags: skyway webrtc character usecase
 ---
 
+WebRTCを活用することで、アプリやサービスに、簡単に映像や音声通話機能を追加することができます。
+
+Facebook MessengerやGoogle Hangoutsなど著名なメッセンジャーでも活用されています。
+
 
 <hr>
 

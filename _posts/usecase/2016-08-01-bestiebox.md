@@ -8,4 +8,14 @@ categories: skyway
 tags: skyway webrtc image usercase messenger
 ---
 
+<figure>
+	<a href="http://506506.ntt.com/smp_ap/bestiebox/" target="_blank"><img src="{{ site.url }}/images/pages/bestiebox.png"></a>
+</figure>
 
+### NTTコミュニケーションズ BestieBox
+
+グループ向けコミュニケーションアプリ
+
+無料ビデオ通話機能にWebRTCを利用
+
+[BestieBox](http://506506.ntt.com/smp_ap/bestiebox/){:target="_blank"}
