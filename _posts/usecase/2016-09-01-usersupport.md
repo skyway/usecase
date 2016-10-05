@@ -8,7 +8,7 @@ categories: skyway
 tags: skyway webrtc image usecase
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X40j57v5g6I?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X40j57v5g6I?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>
 
 WebRTCを活用することで、自社サイトやアプリに音声/ビデオ通話を組み込むことができ、
 ユーザやサイト訪問者はわざわざ電話にて発信することなくサポートを受けることができます。

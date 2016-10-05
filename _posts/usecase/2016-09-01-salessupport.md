@@ -8,8 +8,6 @@ categories: skyway
 tags: skyway webrtc character usecase
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kW_bBwXiHLo?rel=0" frameborder="0" allowfullscreen></iframe>
-
 販売員やスタッフをリモートから支援することで、販売促進を図る取り組みも進んでいます。
 
 店頭販売では、外国語や手話などの翻訳サービスの活用や社内ヘルプデスクによる販売員の支援などが行われています。これにより、各店舗に資格保持者や有スキル者を配置する必要がなくなり、安価で効率的な対応が可能となります。
