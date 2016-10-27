@@ -8,7 +8,7 @@ categories: skyway
 tags: skyway webrtc image usercase iot
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FTYEZdMBiuc?rel=0" frameborder="0" allowfullscreen></iframe>
+{% include video.html id='FTYEZdMBiuc' %}
 
 ### アースアイズ
 
