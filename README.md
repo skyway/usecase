@@ -13,3 +13,9 @@ https://skyway.github.io/usecase/
   - _config.ymlを `url: https://skyway.github.io/usecase` に修正
   - `bundle exec jekyll build` でcommit用のページ生成
   - あとはいつものaddして、commitして、push
+
+## ブランチ
+
+- maseter … https://skyway.github.io/usecase/
+- local-video … http://localhost:4000/
+  - `usecase-videos/` 内にMP4ファイルを入れる必要あり
