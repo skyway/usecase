@@ -9,5 +9,5 @@ this.currentTime = {{ include.start }} - 0;
 </script>
 {% endif %}
 {% else %}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.id }}X40j57v5g6I?autoplay=1&rel=0{% if include.start %}&start={{ include.start }}{% endif %}" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.id }}?autoplay=1&rel=0{% if include.start %}&start={{ include.start }}{% endif %}" frameborder="0" allowfullscreen></iframe>
 {% endif %}
