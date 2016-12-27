@@ -5,8 +5,8 @@ description: "WebRTC Usecaseを説明するために、まとめたサイト"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: jp
-# url: https://skyway.github.io/usecase
-url: http://localhost:4000
+url: https://skyway.github.io/usecase
+# url: http://localhost:4000
 feed:
   path: atom.xml
 
