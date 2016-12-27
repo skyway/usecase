@@ -8,7 +8,7 @@ categories: skyway
 tags: skyway webrtc image usercase webconf
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qq5NMg_mol4?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>
+{% include video.html id='qq5NMg_mol4' %}
 
 ### NTTコミュニケーションズ WebRTC Chat on SkyWay
 

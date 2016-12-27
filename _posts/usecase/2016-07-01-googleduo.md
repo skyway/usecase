@@ -8,8 +8,7 @@ categories: webrtc
 tags: webrtc image usercase webconf messenger
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CIeMysX76pM?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>
-
+{% include video.html id='CIeMysX76pM' %}
 
 ### Google Duo
 

@@ -9,7 +9,7 @@ tags: skyway webrtc image usercase webconf usersupport iot
 ---
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hJqNOc3OSdM?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>
+{% include video.html id='hJqNOc3OSdM' %}
 
 ### newphoria WebSky-Translation
 
