@@ -2,12 +2,12 @@
 <video width="100%" src="/usecase-videos/{{ include.id }}.mp4" autoplay controls id="{{ include.id }}"></video>
 {% if include.start %}
 <script>
-document.getElementById('{{ include.id }}').addEventListener('canplay', function() {
+  document.getElementById('{{ include.id }}').addEventListener('loadedmetadata', function() {
 console.log(this);
 this.currentTime = {{ include.start }} - 0;
 }, false)
 </script>
 {% endif %}
 {% else %}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.id }}X40j57v5g6I?autoplay=1&rel=0{% if include.start %}&start={{ include.start }}{% endif %}" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.id }}?autoplay=1&rel=0{% if include.start %}&start={{ include.start }}{% endif %}" frameborder="0" allowfullscreen></iframe>
 {% endif %}
