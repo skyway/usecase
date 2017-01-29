@@ -2,7 +2,7 @@
 <video width="100%" src="/usecase-videos/{{ include.id }}.mp4" autoplay controls id="{{ include.id }}"></video>
 {% if include.start %}
 <script>
-document.getElementById('{{ include.id }}').addEventListener('canplay', function() {
+  document.getElementById('{{ include.id }}').addEventListener('loadedmetadata', function() {
 console.log(this);
 this.currentTime = {{ include.start }} - 0;
 }, false)
