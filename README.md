@@ -1,21 +1,21 @@
-# 使い方
 
-- GitHub Pagesで動かす時
-  - https://skyway.github.io/usecase/ にアクセス
+## gh-pages
+
+https://skyway.github.io/usecase/
+
+## 使い方
+
 - ローカルで動かす時
-  - `git checkout local-video` でブランチ切り替え
-  - `bundle exec jekyll serve` でサーバ起動
+  - _config.ymlを `url: http://localhost:4000` に修正
+  - `bundle exec jekyll serve` でサーバ起動
   - http://localhost:4000 にアクセス
+- Pushする時
+  - _config.ymlを `url: https://skyway.github.io/usecase` に修正
+  - `bundle exec jekyll build` でcommit用のページ生成
+  - あとはいつものaddして、commitして、push
 
-# ブランチ
+## ブランチ
 
-```
-            update               update
-            content              content
-     master ---*----*---------------*----*----------->
-                     \  then              \  then
-                      v merge.             v merge.
-local-video -----------*---------*----------*-------->
-                              update
-                              submodule
-```
+- maseter … https://skyway.github.io/usecase/
+- local-video … http://localhost:4000/
+  - `usecase-videos/` 内にMP4ファイルを入れる必要あり
