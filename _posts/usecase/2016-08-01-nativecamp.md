@@ -5,7 +5,7 @@ excerpt:
 image:
   teaser: thumbnail/nativecamp_400x250.png
 categories: skyway
-tags: skyway webrtc image usercase webconf education
+tags: skyway webrtc image usercase conf education
 ---
 
 {% include video.html id='X_f4JxLtVeE' %}
