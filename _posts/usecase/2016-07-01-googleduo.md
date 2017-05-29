@@ -5,7 +5,7 @@ excerpt:
 image:
   teaser: thumbnail/googleduo_400x250.png
 categories: webrtc
-tags: webrtc image usercase conf messenger
+tags: webrtc image usercase conf sns
 ---
 
 {% include video.html id='CIeMysX76pM' %}
