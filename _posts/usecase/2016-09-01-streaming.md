@@ -3,7 +3,7 @@ layout: article
 title: ライブ配信
 excerpt: 
 image:
-  teaser: thumbnail/streaming_400x250.png
+  teaser: thumbnail/broadcast_400x250.png
 categories: skyway
 tags: skyway webrtc character usecase
 ---
@@ -24,7 +24,7 @@ tags: skyway webrtc character usecase
 関連ユーザ事例
 
 <div class="tiles">
-{% for post in site.tags.streaming %}
+{% for post in site.tags.broadcast %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->

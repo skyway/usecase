@@ -5,7 +5,7 @@ excerpt:
 image:
   teaser: thumbnail/telexistence_400x250.png
 categories: skyway
-tags: skyway webrtc image usercase robot iot vr
+tags: skyway webrtc image usercase robot iot vrar
 ---
 
 # テレイグジスタンスロボット
