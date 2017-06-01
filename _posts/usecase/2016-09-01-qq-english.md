@@ -3,7 +3,7 @@ layout: article
 title: 学校・塾向けオンライン英会話
 excerpt: 
 image:
-  teaser: thumbnail/another_qq-english_400x250.png
+  teaser: thumbnail/qq-english_400x250.png
 categories: skyway
 tags: skyway webrtc image usercase conf education
 ---
