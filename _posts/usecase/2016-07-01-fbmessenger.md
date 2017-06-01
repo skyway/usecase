@@ -5,7 +5,7 @@ excerpt:
 image:
   teaser: thumbnail/facebook_400x250.png
 categories: webrtc
-tags: webrtc image usercase messenger
+tags: webrtc image usercase sns
 ---
 
 <figure>

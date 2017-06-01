@@ -5,7 +5,7 @@ excerpt:
 image:
   teaser: thumbnail/webrtcchat_400x250.png
 categories: skyway
-tags: skyway webrtc image usercase webconf
+tags: skyway webrtc image usercase conf
 ---
 
 {% include video.html id='qq5NMg_mol4' %}
