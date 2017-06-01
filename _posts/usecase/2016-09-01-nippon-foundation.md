@@ -12,6 +12,8 @@ tags: skyway webrtc image usercase support
 
 {% include video.html id='nIXjO9ZgPX8' %}
 
+※収録時はSkypeを利用していました。
+
 電話リレーサービスとは、聴覚障がい者が電話を利用するための仕組み。
 オペレーターが手話や文字による通訳を行い、聴覚障がい者と相手先（聴者）をつなぐサービスです。
 
