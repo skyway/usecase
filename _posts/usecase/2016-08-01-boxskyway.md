@@ -5,7 +5,7 @@ excerpt:
 image:
   teaser: thumbnail/boxskyway_400x250.png
 categories: skyway
-tags: skyway webrtc image usercase webconf fileshare
+tags: skyway webrtc image usercase conf share
 ---
 
 <figure>

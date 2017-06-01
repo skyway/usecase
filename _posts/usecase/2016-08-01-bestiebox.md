@@ -5,7 +5,7 @@ excerpt:
 image:
   teaser: thumbnail/bestiebox_400x250.png
 categories: skyway
-tags: skyway webrtc image usercase messenger
+tags: skyway webrtc image usercase sns
 ---
 
 <figure>
