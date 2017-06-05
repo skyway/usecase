@@ -5,7 +5,7 @@ excerpt:
 image:
   teaser: thumbnail/nippon-foundation_400x250.png
 categories: skyway
-tags: skyway webrtc image usercase support
+tags: skyway webrtc image usercase support translation
 ---
 
 ### 日本財団
