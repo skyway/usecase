@@ -8,6 +8,8 @@ categories: skyway
 tags: skyway webrtc character usecase
 ---
 
+{% include video.html id='nIXjO9ZgPX8' start='20' %}
+
 WebRTCは、通訳にも活用されています。
 
 SkypeやFaceTimeなど外部のサービスを利用したオンライン通訳サービスには課題があります。WebRTCを用いることで一貫したユーザ体験が提供可能になることから、WebRTCへの移行が進んでいます。

@@ -10,7 +10,7 @@ tags: skyway webrtc image usercase support translation
 
 ### 日本財団
 
-{% include video.html id='nIXjO9ZgPX8' %}
+{% include video.html id='nIXjO9ZgPX8' start='20' %}
 
 ※収録時はSkypeを利用していました。
 
