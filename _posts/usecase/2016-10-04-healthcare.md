@@ -8,6 +8,8 @@ categories: skyway
 tags: skyway webrtc character usecase
 ---
 
+{% include video.html id='SLXf4KDhAxA' start='36' %}
+
 WebRTCは、医療やヘルスケアにも活用されています。
 
 <hr>
