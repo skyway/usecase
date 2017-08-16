@@ -8,14 +8,14 @@ categories: skyway
 tags: skyway webrtc image usercase conf
 ---
 
+### NTTコミュニケーションズ
+
 <figure>
 	<a href="https://confdemo.skyway.io/" target="_blank"><img src="{{ site.url }}/images/pages/skywayconf.png"></a>
 </figure>
 
 <a href="https://confdemo.skyway.io/" target="_blank" class="btn-info">Demo: SkyWay Conference</a>
-<a href="https://confdemo.skyway.io/usecase" target="_blank" class="btn-info">JOIN</a>
-
-### NTTコミュニケーションズ SkyWay Conference
+<a href="https://confdemo.skyway.io/usecase" target="_blank" class="btn-info">Join</a>
 
 SkyWayのサンプルとして開発したビジネス向けWeb会議サービス
 
