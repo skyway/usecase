@@ -5,7 +5,7 @@ excerpt:
 image:
   teaser: thumbnail/healthcare_400x250.png
 categories: skyway
-tags: skyway webrtc character usecase
+tags: skyway webrtc image usecase
 ---
 
 {% include video.html id='SLXf4KDhAxA' start='36' %}

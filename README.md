@@ -26,32 +26,19 @@ bundle exec jekyll serve
 $ git checkout local-video
 ```
 
-#### 4. submodule `usecase-video`のディレクトリに入り、最新のコンテンツを`git pull`する
+#### 4. submodule `usecase-videos`のディレクトリに入り、最新のコンテンツを`git pull`する
 
 ```
 $ cd usecase-videos
-$ cd checkout master
+$ git checkout master
 $ git pull origin master
 ```
 
-#### 4. submodule `usecase-video`のディレクトリから出て、submoduleの更新を`git push`する
+#### 4. submodule `usecase-videos`のディレクトリから出て、submoduleの更新を`git push`する
 
 ```
 $ cd ..
-$ git add usecase-video
+$ git add usecase-videos
 $ git commit -m 'Update submodule usecase-videos'
 $ git push
-```
-
-# ブランチ
-
-```
-            update               update
-            content              content
-     master ---*----*---------------*----*----------->
-                     \  then              \  then
-                      v merge.             v merge.
-local-video -----------*---------*----------*-------->
-                              update
-                              submodule
 ```
