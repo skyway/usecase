@@ -5,7 +5,7 @@ excerpt:
 image:
   teaser: thumbnail/translation_400x250.png
 categories: skyway
-tags: skyway webrtc character usecase
+tags: skyway image webrtc usecase
 ---
 
 {% include video.html id='nIXjO9ZgPX8' start='20' %}

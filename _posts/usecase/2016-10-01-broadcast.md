@@ -5,19 +5,21 @@ excerpt:
 image:
   teaser: thumbnail/broadcast_400x250.png
 categories: skyway
-tags: skyway webrtc character usecase
+tags: skyway webrtc image character usecase
 ---
+
+{% include video.html id='lNdmz1jq8M4' %}
 
 従来、ストリーミング技術が担ってきたライブ配信の分野にも使われて始めています。
 
-ストリーミング技術と比べると、
+HLS (HTTP Live Streaming) 等のストリーミング技術と比べると、
 
 - 遅延が少ない (従来技術は数十秒以上の遅延があった)
 - インタラクティブなコミュニケーションが可能 (質疑応答など)
 
 のメリットがあります。
 
-ゲーム実況などに活用されています。
+ゲーム実況やお絵かきのライブ配信などに活用されています。
 
 <hr>
 
