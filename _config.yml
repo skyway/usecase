@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: "WebRTC Usecase"
-description: "WebRTC Usecaseを説明するために、まとめたサイト"
+title: "ECLWebRTC Usecase"
+description: "ECLWebRTCの事例紹介サイトです"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: jp
