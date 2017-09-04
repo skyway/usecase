@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "ECLWebRTC活用事例"
+title: "SkyWay活用事例"
 ---
 
 <div class="tiles">
