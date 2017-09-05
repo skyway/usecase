@@ -9,7 +9,7 @@ title: "SkyWayとは"
 
 
 <figure>
-	<a href="http://skyway.io" target="_blank"><img src="{{ site.url }}/images/pages/skyway-logo-full.png"></a>
+	<a href="http://skyway.io" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/pages/skyway-logo-full.png"></a>
 </figure>
 
 

@@ -12,7 +12,7 @@ published: false
 ### schoolTakt
 
 <figure>
-	<img src="{{ site.url }}/images/pages/schooltakt.gif">
+	<img src="{{ site.url }}{{ site.baseurl }}/images/pages/schooltakt.gif">
 </figure>
 
 iPad、タブレット、PCで利用できるアクティブラーニング教材。

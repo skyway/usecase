@@ -11,7 +11,7 @@ tags: skyway webrtc image usercase
 #### NTTコミュニケーションズ
 
 <figure>
-	<a href="https://skyway.io/examples/caption-phone/#ja" target="_blank"><img src="{{ site.url }}/images/pages/captionphone.png"></a>
+	<a href="https://skyway.io/examples/caption-phone/#ja" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/pages/captionphone.png"></a>
 </figure>
 
 <a href="https://skyway.io/examples/caption-phone/#ja" target="_blank" class="btn-info">Demo: 字幕付きボイスチャット</a>

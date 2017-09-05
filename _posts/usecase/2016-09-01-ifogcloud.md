@@ -9,5 +9,5 @@ tags: skyway webrtc image usercase iot
 ---
 
 <figure>
-	<img src="{{ site.url }}/images/pages/ifogcloud.png">
+	<img src="{{ site.url }}{{ site.baseurl }}/images/pages/ifogcloud.png">
 </figure>
