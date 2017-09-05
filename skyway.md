@@ -4,12 +4,12 @@ permalink: /skyway/index.html
 title: "SkyWayとは"
 ---
 
-[SkyWay](http://skyway.io){:target="_blank"}は、開発者向けのWebRTCプラットフォームです。
+[SkyWay](https://webrtc.ecl.ntt.com){:target="_blank"}は、開発者向けのWebRTCプラットフォームです。
 
 
 
 <figure>
-	<a href="http://skyway.io" target="_blank"><img src="{{ site.url }}/images/pages/skyway-logo-full.png"></a>
+	<a href="https://webrtc.ecl.ntt.com" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/pages/skyway-logo-full.png"></a>
 </figure>
 
 

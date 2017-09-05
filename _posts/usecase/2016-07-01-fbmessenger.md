@@ -9,7 +9,7 @@ tags: webrtc image usercase sns
 ---
 
 <figure>
-	<a href="https://www.messenger.com/about" target="_blank"><img src="{{ site.url }}/images/pages/facebook_messenger.png"></a>
+	<a href="https://www.messenger.com/about" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/pages/facebook_messenger.png"></a>
 </figure>
 
 [https://www.messenger.com/about](https://www.messenger.com/about){:target="_blank"}
