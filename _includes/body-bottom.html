@@ -1,0 +1,4 @@
+{% assign full_base_url = site.url | append: site.baseurl %}
+{% assign network_path_base_url = full_base_url | replace_first: 'http://', '//' | replace_first: 'https://', '//' %}
+<script src="{{ '/js/vendor/jquery-1.9.1.min.js' | prepend: network_path_base_url }}"></script>
+<script src="{{ '/js/main.js' | prepend: network_path_base_url }}"></script>
