@@ -9,7 +9,7 @@ tags: webrtc image usercase sns
 ---
 
 <figure>
-	<a href="" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/pages/googlehangouts.png"></a>
+	<a href="" target="_blank"><img src="{{ site.url | replace_first: 'http://', '//' | replace_first: 'https://', '//' }}{{ site.baseurl }}/images/pages/googlehangouts.png"></a>
 </figure>
 
 ### Google Hangouts
