@@ -1,4 +1,7 @@
 # Footer navigation links
 
-- title: Home
+- title: Use Case
   url: /
+
+- title: About SkyWay
+  url: http://webrtc.ecl.ntt.com
