@@ -16,5 +16,5 @@ tags: skyway webrtc image usercase conf support iot
 音声通訳＋テキスト翻訳＋「Web-Based Signage」
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/images/pages/newphoriaWebSky-Translation.png">
+	<img src="{{ site.url | replace_first: 'http://', '//' | replace_first: 'https://', '//' }}{{ site.baseurl }}/images/pages/newphoriaWebSky-Translation.png">
 </figure>
