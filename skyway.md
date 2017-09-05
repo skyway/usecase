@@ -9,7 +9,7 @@ title: "SkyWayとは"
 
 
 <figure>
-	<a href="https://webrtc.ecl.ntt.com" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/pages/skyway-logo-full.png"></a>
+	<a href="https://webrtc.ecl.ntt.com" target="_blank"><img src="{{ site.url | replace_first: 'http://', '//' | replace_first: 'https://', '//' }}{{ site.baseurl }}/images/pages/skyway-logo-full.png"></a>
 </figure>
 
 

@@ -9,7 +9,7 @@ tags: skyway webrtc image usercase support
 ---
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/images/pages/visualnavi.png">
+	<img src="{{ site.url | replace_first: 'http://', '//' | replace_first: 'https://', '//' }}{{ site.baseurl }}/images/pages/visualnavi.png">
 </figure>
 
 ### NTTコミュニケーションズ ビジュアルナビ (Click to Call)
