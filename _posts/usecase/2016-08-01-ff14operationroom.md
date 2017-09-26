@@ -1,6 +1,6 @@
 ---
 layout: article
-title: FANAL FANTASY XIV作戦室
+title: FIANAL FANTASY XIV作戦室
 excerpt: 
 image:
   teaser: thumbnail/ff14operationroom_400x250.png
