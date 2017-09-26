@@ -5,7 +5,7 @@ excerpt:
 image:
   teaser: thumbnail/ff14operationroom_400x250.png
 categories: skyway
-tags: skyway webrtc image usercase conf share sns
+tags: skyway webrtc image usercase conf share sns game
 ---
 
 ゲームに特化したボイスチャット
