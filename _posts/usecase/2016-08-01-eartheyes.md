@@ -13,7 +13,7 @@ tags: skyway webrtc image usercase iot
 ### アースアイズ
 
 <figure>
-	<a href="" target="_blank"><img src="{{ site.url }}/images/pages/eartheyes.png"></a>
+	<a href="" target="_blank"><img src="{{ site.url | replace_first: 'http://', '//' | replace_first: 'https://', '//' }}{{ site.baseurl }}/images/pages/eartheyes.png"></a>
 </figure>
 
 家庭内防犯カメラサービス

@@ -1,24 +1,36 @@
 # Site navigation links
 
-- title: SkyWay
-  url: /skyway
-  excerpt: SkyWayとは
-  image: thumbnail/skyway_400x250.png
-
-- title: WebRTC
-  url: /webrtc
-  excerpt: WebRTC関連事例
-  image: thumbnail/webrtc_400x250.png
-
 - title: Use Case
-  url: /use
-  excerpt: ユースケース
+  url: /
+  excerpt: SkyWay活用事例
   image: thumbnail/usecase_400x250.png
 
-- title: User Case
-  url: /user
-  excerpt: ユーザ事例
-  image: thumbnail/usercase_400x250.png
+- title: About SkyWay
+  url: https://webrtc.ecl.ntt.com
+  excerpt: SkyWayサイト
+  image: thumbnail/skyway_400x250.png
+
+
+
+# - title: SkyWay
+#   url: /skyway
+#   excerpt: SkyWayとは
+#   image: thumbnail/skyway_400x250.png
+
+# - title: WebRTC
+#   url: /webrtc
+#   excerpt: WebRTC関連事例
+#   image: thumbnail/webrtc_400x250.png
+
+# - title: Use Case
+#   url: /use
+#   excerpt: ユースケース
+#   image: thumbnail/usecase_400x250.png
+
+# - title: User Case
+#   url: /user
+#   excerpt: ユーザ事例
+#   image: thumbnail/usercase_400x250.png
 
 # - title: image
 #   url: /image

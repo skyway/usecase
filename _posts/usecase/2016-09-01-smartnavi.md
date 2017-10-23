@@ -9,7 +9,7 @@ tags: skyway webrtc image usercase conf support translation
 ---
 
 <figure>
-	<img src="{{ site.url }}/images/pages/smartnavi.gif">
+	<img src="{{ site.url | replace_first: 'http://', '//' | replace_first: 'https://', '//' }}{{ site.baseurl }}/images/pages/smartnavi.gif">
 </figure>
 
 WebRTCを使った多言語通訳サービス。

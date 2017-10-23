@@ -11,7 +11,7 @@ tags: skyway webrtc image usercase
 ### NTTコミュニケーションズ
 
 <figure>
-	<a href="https://jt.skyway.io/" target="_blank"><img src="{{ site.url }}/images/pages/jumbotron.png"></a>
+	<a href="https://jt.skyway.io/" target="_blank"><img src="{{ site.url | replace_first: 'http://', '//' | replace_first: 'https://', '//' }}{{ site.baseurl }}/images/pages/jumbotron.png"></a>
 </figure>
 
 <a href="https://jt.skyway.io/" target="_blank" class="btn-info">Demo: HTML5 JUMBOTRON</a>

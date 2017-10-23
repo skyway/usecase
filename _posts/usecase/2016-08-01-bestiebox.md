@@ -9,7 +9,7 @@ tags: skyway webrtc image usercase sns
 ---
 
 <figure>
-	<a href="http://506506.ntt.com/smp_ap/bestiebox/" target="_blank"><img src="{{ site.url }}/images/pages/bestiebox.png"></a>
+	<a href="http://506506.ntt.com/smp_ap/bestiebox/" target="_blank"><img src="{{ site.url | replace_first: 'http://', '//' | replace_first: 'https://', '//' }}{{ site.baseurl }}/images/pages/bestiebox.png"></a>
 </figure>
 
 ### NTTコミュニケーションズ BestieBox
