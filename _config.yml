@@ -61,3 +61,5 @@ exclude:
   - package.json
   - spec
   - tmp
+include:
+  - _BJAZDFiY4E.mp4
