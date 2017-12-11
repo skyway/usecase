@@ -8,7 +8,7 @@ categories: skyway
 tags: skyway webrtc image usercase support translation
 ---
 
-{% include video.html id='BJAZDFiY4E' %}
+{% include video.html id='_BJAZDFiY4E' %}
 
 ### 日本財団 / 羽田空港 / 筑波技術大学
 
