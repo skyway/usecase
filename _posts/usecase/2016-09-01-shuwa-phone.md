@@ -10,7 +10,7 @@ tags: skyway webrtc image usercase support translation
 
 {% include video.html id='BJAZDFiY4E' %}
 
-### 日本財団、羽田空港、筑波技術大学
+### 日本財団 / 羽田空港 / 筑波技術大学
 
 国内初の聴覚障害者向けの手話対応型公衆電話ボックス「手話フォン」。
 羽田空港国内線第1・2旅客ターミナルと筑波技術大に設置されています。
