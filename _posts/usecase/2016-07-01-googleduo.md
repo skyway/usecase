@@ -18,3 +18,5 @@ WebRTCを利用しており、受信側は、相手の映像を見ながら応�
 
 
 [https://duo.google.com/](https://duo.google.com/){:target="_blank"}
+
+{% include another-company.html %}

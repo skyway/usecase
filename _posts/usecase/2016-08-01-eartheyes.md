@@ -21,3 +21,5 @@ tags: skyway webrtc image usercase iot
 カメラ映像の送信と双方向での音声通信にWebRTCを活用
 
 [http://earth-eyes.co.jp/?p=1](http://earth-eyes.co.jp/?p=1){:target="_blank"}
+
+{% include robot-notice.html %}
