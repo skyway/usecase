@@ -21,3 +21,5 @@ tags: skyway webrtc image usercase robot iot vrar
     ※このテレイグジスタンスロボットはWebRTCに未対応です
   </caption>
 </figure>
+
+{% include robot-notice.html %}

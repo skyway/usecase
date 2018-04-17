@@ -19,3 +19,4 @@ tags: webrtc image usercase sns
 
 [https://hangouts.google.com/](https://hangouts.google.com/){:target="_blank"}
 
+{% include another-company.html %}
