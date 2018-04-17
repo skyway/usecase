@@ -22,4 +22,4 @@ tags: skyway webrtc image usercase robot iot vrar
   </caption>
 </figure>
 
-{% include robot-notice.html %}
+{% include telexistence-notice.html %}
