@@ -11,11 +11,10 @@ tags: skyway webrtc image usercase conf
 ### NTTコミュニケーションズ
 
 <figure>
-	<a href="https://confdemo.skyway.io/" target="_blank"><img src="{{ site.url | replace_first: 'http://', '//' | replace_first: 'https://', '//' }}{{ site.baseurl }}/images/pages/skywayconf.png"></a>
+  <a href="https://conf.webrtc.ecl.ntt.com/" target="_blank"><img src="{{ site.url | replace_first: 'http://', '//' | replace_first: 'https://', '//' }}{{ site.baseurl }}/images/pages/skywayconf.png"></a>
 </figure>
 
-<a href="https://confdemo.skyway.io/" target="_blank" class="btn-info">Demo: SkyWay Conference</a>
-<a href="https://confdemo.skyway.io/usecase" target="_blank" class="btn-info">Join</a>
+<a href="https://conf.webrtc.ecl.ntt.com/" target="_blank" class="btn-info">Demo: SkyWay Conference</a>
 
 SkyWayのサンプルとして開発したビジネス向けWeb会議サービス
 
