@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 字幕付きボイスチャット
-excerpt: 
+excerpt:
 image:
   teaser: thumbnail/captionphone_400x250.png
 categories: skyway
@@ -13,8 +13,6 @@ tags: skyway webrtc image usercase
 <figure>
 	<a href="https://skyway.io/examples/caption-phone/#ja" target="_blank"><img src="{{ site.url | replace_first: 'http://', '//' | replace_first: 'https://', '//' }}{{ site.baseurl }}/images/pages/captionphone.png"></a>
 </figure>
-
-<a href="https://skyway.io/examples/caption-phone/#ja" target="_blank" class="btn-info">Demo: 字幕付きボイスチャット</a>
 
 通話内容をテキストで表示するボイスチャット
 
